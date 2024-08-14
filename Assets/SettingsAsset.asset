@@ -1,0 +1,450 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abe7646e22c8443f6a951fbc597eb73b, type: 3}
+  m_Name: SettingsAsset
+  m_EditorClassIdentifier: 
+  serializable:
+    data:
+      lastDay: 08/14/2024
+      tasks:
+      - taskName: sefse
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 
+      - taskName: sfefsef
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 
+      - taskName: fsefsefes
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 
+      - taskName: awdaw
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: adwda
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdaw
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: daese
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: adae
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: dsedsef
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: kbjhb
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: wdawdaw
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: fesefe
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdwad
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: dawdaw
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdawd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdaw
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdawd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdwad
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdwa
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awda
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdawd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdawd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdawd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdaw
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awdawd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: awd
+        description: Description
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 04/02/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: awdaw
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: sefse
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: awdwad
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: awdawd
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: awdaw
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 09/08/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: awdwa
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: awda
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: awd
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 10/08/2024
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: daese
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: adae
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: sfefsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: daese
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: adae
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: dsedsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 14/08/2024
+      - taskName: awdaw
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: adae
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: dawdaw
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: awdaw
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: adae
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: dsedsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: daese
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: daese
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: adae
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: dsedsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: kbjhb
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      todayTasks:
+      - taskName: fsefsefes
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: adae
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      completedTasks:
+      - taskName: kbjhb
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/12/2024
+      - taskName: dsedsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/12/2024
+      - taskName: daese
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/13/2024
+      completedTodayTasks:
+      - taskName: kbjhb
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: dsedsef
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+      - taskName: daese
+        description: 
+        timeInMinutes: 45
+        iconID: 0
+        isCompleted: 0
+        date: 08/14/2024
+  path: /Users/aleksandrbaskin/Documents/Unity/UnityProjects/RoutineRider/Assets/StreamingAssets/settings/save.save
+  saveName: save.save
+  debugMode: 0

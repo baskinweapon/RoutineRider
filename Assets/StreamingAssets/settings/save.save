@@ -1,0 +1,581 @@
+{
+    "data": {
+        "lastDay": "08/14/2024",
+        "tasks": [
+            {
+                "taskName": "sefse",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": ""
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": ""
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": ""
+            },
+            {
+                "taskName": "awdaw",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "adwda",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "kbjhb",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "wdawdaw",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "fesefe",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdwad",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "dawdaw",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdwad",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdwa",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awda",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "awd",
+                "description": "Description",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "04/02/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "sefse",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "awdwad",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "awdawd",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "09/08/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "awdwa",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "awda",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "awd",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "10/08/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "14/08/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "dawdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "kbjhb",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            }
+        ],
+        "todayTasks": [
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            }
+        ],
+        "completedTasks": [
+            {
+                "taskName": "kbjhb",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/12/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/12/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/13/2024"
+            }
+        ],
+        "completedTodayTasks": [
+            {
+                "taskName": "kbjhb",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/14/2024"
+            }
+        ]
+    }
+}
