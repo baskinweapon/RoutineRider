@@ -67,7 +67,7 @@ public class FunctionPanelView : View {
 
     public void HideAllPanels() {
         foreach (var panel in _panels) {
-            panel.SwitchState(false);
+            panel.SwitchState(false, true);
         }
     }
     

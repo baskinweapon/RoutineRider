@@ -1,6 +1,6 @@
 {
     "data": {
-        "lastDay": "08/14/2024",
+        "lastDay": "08/20/2024",
         "tasks": [
             {
                 "taskName": "sefse",
@@ -505,16 +505,22 @@
                 "iconID": 0,
                 "isCompleted": false,
                 "date": "08/14/2024"
-            }
-        ],
-        "todayTasks": [
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
             {
                 "taskName": "fsefsefes",
                 "description": "",
                 "timeInMinutes": 45,
                 "iconID": 0,
                 "isCompleted": false,
-                "date": "08/14/2024"
+                "date": "08/16/2024"
             },
             {
                 "taskName": "adae",
@@ -522,7 +528,321 @@
                 "timeInMinutes": 45,
                 "iconID": 0,
                 "isCompleted": false,
-                "date": "08/14/2024"
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "meditation",
+                "description": "need think",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "task",
+                "description": "wd",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sefse",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adwda",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "231",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            }
+        ],
+        "todayTasks": [
+            {
+                "taskName": "adwda",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
             }
         ],
         "completedTasks": [
@@ -549,24 +869,6 @@
                 "iconID": 0,
                 "isCompleted": false,
                 "date": "08/13/2024"
-            }
-        ],
-        "completedTodayTasks": [
-            {
-                "taskName": "kbjhb",
-                "description": "",
-                "timeInMinutes": 45,
-                "iconID": 0,
-                "isCompleted": false,
-                "date": "08/14/2024"
-            },
-            {
-                "taskName": "dsedsef",
-                "description": "",
-                "timeInMinutes": 45,
-                "iconID": 0,
-                "isCompleted": false,
-                "date": "08/14/2024"
             },
             {
                 "taskName": "daese",
@@ -574,7 +876,537 @@
                 "timeInMinutes": 45,
                 "iconID": 0,
                 "isCompleted": false,
-                "date": "08/14/2024"
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/16/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "meditation",
+                "description": "need think",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "task",
+                "description": "wd",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sefse",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "231",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            }
+        ],
+        "completedTodayTasks": [
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "daese",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "adae",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "fsefsefes",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "meditation",
+                "description": "need think",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "awdaw",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "task",
+                "description": "wd",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sefse",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "sfefsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "231",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
+            },
+            {
+                "taskName": "dsedsef",
+                "description": "",
+                "timeInMinutes": 45,
+                "iconID": 0,
+                "isCompleted": false,
+                "date": "08/20/2024"
             }
         ]
     }

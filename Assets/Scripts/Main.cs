@@ -1,12 +1,15 @@
+using System;
+using DefaultNamespace;
 using UnityEngine;
+using Zenject;
 
 public class Main : MonoBehaviour {
-    public static Main Instance { get; private set; }
     
-    private void Awake() {
-        Instance = this;
+    [SerializeField] private TaskController taskController;
+    [Inject]
+    private void Construct(TaskController _taskController) {
+        taskController = _taskController;
     }
-    
     
     private void Start() {
         
@@ -14,3 +17,4 @@ public class Main : MonoBehaviour {
     
     
 }
+

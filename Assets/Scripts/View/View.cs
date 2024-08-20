@@ -1,14 +1,19 @@
 using System;
+using DG.Tweening;
 using UnityEngine;
 
 
 public class View : MonoBehaviour {
-    
-    public void ActivateView() {
+     
+    public virtual void ActivateView() {
         gameObject.SetActive(true);
     }
     
-    public void DeactivateView() {
+    public virtual void DeactivateView(bool isImmediate = false) {
+        
+    }
+
+    protected void Inactive() {
         gameObject.SetActive(false);
     }
     
