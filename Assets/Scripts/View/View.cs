@@ -1,7 +1,4 @@
-using System;
-using DG.Tweening;
 using UnityEngine;
-
 
 public class View : MonoBehaviour {
      

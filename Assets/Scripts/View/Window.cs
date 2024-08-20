@@ -4,8 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Window : View {
+    [Header("Window")]
     [SerializeField] private SwitchButton _button;
     [SerializeField] private Image _blockRaycaster;
+    
     private RectTransform _content;
 
     private void OnEnable() {
